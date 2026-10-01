@@ -1,5 +1,7 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78C30&center=true&vCenter=true&width=900&lines=AWS+Certified+AI+Practitioner;Obsidian+%2B+Pomodoro;EN+%2B+ES)](https://github.com/matt1991-arch/AWS-Certified-AI-Practitioner-Study-Hub)
 
+![profile](assets/profile-vim.svg)
+
 ![whoami](assets/whoami.svg)
 
 ![visitas](https://komarev.com/ghpvc/?username=matt1991-arch&style=flat)
