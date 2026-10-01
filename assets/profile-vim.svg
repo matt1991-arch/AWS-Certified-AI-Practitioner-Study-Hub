@@ -6375,7 +6375,7 @@
 <text x="520" y="120" font-size="16" fill="#c9d1d9">  subject: Marco Antonio Torrez Tarifa</text>
 <text x="520" y="150" font-size="16" fill="#c9d1d9">  role: Dev Jr. Python</text>
 <text x="520" y="180" font-size="16" fill="#c9d1d9">  origin: Tarija, Bolivia</text>
-<text x="520" y="210" font-size="16" fill="#c9d1d9">  morph: foto <> tux cada 12s</text>
+<text x="520" y="210" font-size="16" fill="#c9d1d9">  morph: foto a tux cada 12s</text>
 <text x="520" y="240" font-size="16" fill="#a371f7">stack:</text>
 <text x="520" y="270" font-size="16" fill="#c9d1d9">  cloud: AWS - Bedrock - SageMaker</text>
 <text x="520" y="300" font-size="16" fill="#c9d1d9">  tools: Python - Obsidian - Git</text>
