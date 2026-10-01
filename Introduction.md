@@ -4,7 +4,7 @@ tags: [aws, leccion1]
 
 # Introduction
 
-![[Pasted image 20260930212225.png|282]]
+![](Pasted%20image%2020260930212225.png)
 In this course, you will learn about the foundations of machine learning (ML) and artificial intelligence (AI). You will explore the connections between AI, ML, deep learning, and the emerging field of generative artificial intelligence (generative AI), which has captured the attention of businesses and individuals alike. You will gain a solid understanding of foundational AI terms, laying the groundwork for a deeper dive into these concepts. Additionally, you will learn about a selection of Amazon Web Services (AWS) services that use AI and ML capabilities. You will gain practical insights into how these tools can be used to solve real-world problems and drive innovation across various industries.
 
 > **ES:** En este curso, aprenderas sobre los fundamentos del aprendizaje automatico (ML) y la inteligencia artificial (AI). Explorarás las conexiones entre la IA, el ML, el aprendizaje profundo y el campo emergente de la inteligencia artificial generativa (IA generativa), que ha captado la atencion de empresas y personas por igual. Obtendras una comprension solida de los terminos fundamentales de la IA, sentando las bases para profundizar en estos conceptos. Ademas, conocerás una seleccion de servicios de Amazon Web Services (AWS) que utilizan capacidades de IA y ML. Obtendras informacion practica sobre como estas herramientas pueden usarse para resolver problemas del mundo real e impulsar la innovacion en diversas industrias.
@@ -42,7 +42,7 @@ To fully appreciate the capabilities and potential of generative AI, it is cruci
 To learn more about the similarities and differences, choose each of the numbered markers.
 
 > **ES:** Para aprender mas sobre las similitudes y diferencias, elige cada uno de los marcadores numerados.
-![[Pasted image 20260930221203.png]]
+![](Pasted%20image%2020260930212203.png)
 #### 1: [[AI|Artificial intelligence]] (AI)
 
 AI is a broad field that encompasses the development of intelligent systems capable of performing tasks that typically require human intelligence, such as perception, reasoning, learning, problem-solving, and decision-making. AI serves as an umbrella term for various techniques and approaches, including machine learning, deep learning, and generative AI, among others.
@@ -80,28 +80,37 @@ Generative AI systems are capable of generating new data based on the patterns a
 - [ ] B) Machine learning
 - [ ] C) Artificial intelligence
 - [ ] D) Stable Diffusion
+
 <details><summary>Ver respuesta</summary>Correcta: C. La IA abarca ML, DL e IA generativa.</details>
+
 **Q2. What does ML use to improve?**
 - [ ] A) Rules
 - [ ] B) Data
 - [ ] C) GPUs only
 - [ ] D) Prompts
+
 <details><summary>Ver respuesta</summary>Correcta: B. ML aprende patrones de los datos.</details>
+
 **Q3. Which service analyzes millions of images in seconds?**
 - [ ] A) Polly
 - [ ] B) Bedrock
 - [ ] C) Rekognition
 - [ ] D) Transcribe
+
 <details><summary>Ver respuesta</summary>Correcta: C. Rekognition es vision por computadora con deep learning.</details>
+
 **Q4. Titan and Claude are examples of?**
 - [ ] A) Vision models
 - [ ] B) Text generation models
 - [ ] C) Sensors
 - [ ] D) Databases
+
 <details><summary>Ver respuesta</summary>Correcta: B. Generacion de texto de IA generativa.</details>
+
 **Q5. Which is a responsibility concern of generative AI?**
 - [ ] A) Bias
 - [ ] B) Faster GPUs
 - [ ] C) Bigger screens
 - [ ] D) More cables
+
 <details><summary>Ver respuesta</summary>Correcta: A. Sesgo (tambien valen privacidad y uso responsable).</details>
