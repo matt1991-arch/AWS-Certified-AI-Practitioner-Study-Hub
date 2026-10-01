@@ -2,6 +2,8 @@
 tags: [aws, ai-practitioner, modulo1]
 ---
 
+# Lesson 1 - Fundamentals of ML and AI
+
 
 ## EN original (core)
 > Artificial Intelligence is the field that enables machines to mimic human intelligence. Machine Learning is a subset of AI that uses data to learn. Deep Learning uses neural networks.
